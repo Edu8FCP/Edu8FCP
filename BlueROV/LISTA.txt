@@ -1,0 +1,6 @@
+- Conectar
+	- 9 DEG: Extrai e faz print automático;
+	- De seguida tentar fazer num vetor;
+- Extrair Dados
+- Tratar Dados
+	- Usar o ficheiro decode.binary para interpretar os dados recolhidos e os tratar
